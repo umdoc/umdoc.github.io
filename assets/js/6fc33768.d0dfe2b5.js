@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkumdoc=self.webpackChunkumdoc||[]).push([[399],{1409:e=>{e.exports=JSON.parse('{"title":"Scripts","description":"All scripts","slug":"/category/scripts","permalink":"/category/scripts","navigation":{"previous":{"title":"Home","permalink":"/home"},"next":{"title":"um-rodeo","permalink":"/Scripts/um-rodeo"}}}')}}]);
