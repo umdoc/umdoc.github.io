@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkumdoc=self.webpackChunkumdoc||[]).push([[195],{8143:(e,u,t)=>{t.r(u),t.d(u,{default:()=>r});var c=t(9496),n=t(3442);function r(){return c.createElement(n.l_,{to:"/home"})}}}]);
